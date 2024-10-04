@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6479d0849dc1b0132f2b86da"
+  },
+  "title": "Пеперони",
+  "price": 400,
+  "rating": 0
+},{
+  "_id": {
+    "$oid": "6479d0d49dc1b0132f2b86dc"
+  },
+  "title": "Ветчина и сыр",
+  "price": 400,
+  "rating": 0
+},{
+  "_id": {
+    "$oid": "6479d45c9dc1b0132f2b86de"
+  },
+  "title": "Сырная",
+  "price": 600,
+  "rating": 0
+},{
+  "_id": {
+    "$oid": "647a07229dc1b0132f2b86df"
+  },
+  "title": "Чоризо фреш",
+  "price": 500,
+  "rating": 0
+},{
+  "_id": {
+    "$oid": "647a07399dc1b0132f2b86e1"
+  },
+  "title": "Карбонара",
+  "price": 600,
+  "rating": 0
+}]

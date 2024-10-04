@@ -1,0 +1,31 @@
+@import './base.css';
+
+#app {
+  height: 100vh;
+}
+
+h3 {
+  font-family: '', cursive;
+  text-align: left;
+}
+
+h2 {
+  display: inline;
+  margin: auto;
+  font-family: '', cursive;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 35px;
+  letter-spacing: 4px;
+  line-height: 47px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  text-align: center;
+  background: -webkit-linear-gradient(315deg, #7ee9ff 35%, var(--color3));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text{
+  font-family: cursive;
+}

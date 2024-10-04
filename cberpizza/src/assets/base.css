@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fasthand&family=Great+Vibes&family=Hanalei+Fill&family=Open+Sans:wght@400;600;700&family=Oswald&family=Poppins:wght@300;500&family=Roboto+Condensed:wght@400;700&family=Rubik+Puddles&display=swap');
+
+:root {
+  --clr: #fff;
+  --color2: #ff0000;
+  --color3: #647eff;
+  --shadow: 0px 0px 8px 0px #00000073;
+}
+
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+body {
+  margin: 0;
+}
